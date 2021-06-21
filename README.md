@@ -2,6 +2,8 @@
 
 Neste repositório estãos e aplicados 6 algoritmos de ordenação com o intuito de comparar os tempos de execução e, consequentemente, a viablidade de cada um para listas de dados cada vez maiores. 
 
+Duas linguagens foram usadas para esse projeto: C e Java, portanto, há duas versões (uma com cada linguagem).
+
 ## Métodos e seus valores de complexidade
 | Métodos| Melhor caso| Caso médio | Pior caso|
 | ------|-----|-----|-----|
